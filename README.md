@@ -1,7 +1,7 @@
 ### Table of Contents
 
-[Installation](#Header1)    
-[Project Motivation](#Header2)
+[Installation](#Header1 Installation)    
+[Project Motivation](#Header2 Project Motivation)   
 File Descriptions    
 Results    
 Licensing, Authors, and Acknowledgements   
