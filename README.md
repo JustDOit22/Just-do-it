@@ -1,10 +1,10 @@
 ### Table of Contents
 
 [Installation](#1Installation)    
-[Project Motivation](#2Project-Motivation)   
-File Descriptions    
-Results    
-Licensing, Authors, and Acknowledgements   
+[Project Motivation](#2Project-Motivation)    
+[File Descriptions](#3File-Descriptions)      
+[Results](#4Results)    
+[Licensing, Authors, and Acknowledgements](#5Licensing,-Authors,-and-Acknowledgements)   
 
 ### Installation
 The code should run with no issues using Python versions 3.*.
