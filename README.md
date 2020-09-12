@@ -4,7 +4,7 @@
 Project Motivation    
 File Descriptions    
 Results    
-[Licensing, Authors, and Acknowledgements](#Licensing, Authors, Acknowledgements5)   
+[Licensing, Authors, and Acknowledgements](#Header5 Licensing, Authors, Acknowledgements)   
 
 ### Installation
 The code should run with no issues using Python versions 3.*.
