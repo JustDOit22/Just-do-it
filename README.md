@@ -1,10 +1,10 @@
 ### Table of Contents
 
-[Installation](https://github.com/JustDOit22/SolarPowerIndia#installation)    
-[Project Motivation](https://github.com/JustDOit22/SolarPowerIndia#project-motivation)    
-[File Descriptions](https://github.com/JustDOit22/SolarPowerIndia#file-descriptions)      
-[Results](https://github.com/JustDOit22/SolarPowerIndia#results)    
-[Licensing, Authors, and Acknowledgements](https://github.com/JustDOit22/SolarPowerIndia#licensing-authors-acknowledgements#5Licensing,-Authors,-and-Acknowledgements)   
+Installation
+Project Motivation   
+File Descriptions    
+Results      
+Licensing, Authors, and Acknowledgements   
 
 ### Installation
 The code should run with no issues using Python versions 3.*.
