@@ -1,10 +1,10 @@
 ### Table of Contents
 
-[Installation](#Installation1)    
+[Installation](#Header1)    
 Project Motivation    
 File Descriptions    
 Results    
-[Licensing, Authors, and Acknowledgements](#Licensing, Authors, Acknowledgements2)   
+[Licensing, Authors, and Acknowledgements](#Header5)   
 
 ### Installation
 The code should run with no issues using Python versions 3.*.
