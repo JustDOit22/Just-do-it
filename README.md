@@ -1,6 +1,6 @@
 ### Table of Contents
 
-Installation
+Installation    
 Project Motivation   
 File Descriptions    
 Results      
