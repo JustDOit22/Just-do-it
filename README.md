@@ -1,7 +1,7 @@
 ### Table of Contents
 
-[Installation](#1Installation)    
-[Project Motivation](#2 Project Motivation)   
+Installation    
+Project Motivation   
 File Descriptions    
 Results    
 Licensing, Authors, and Acknowledgements   
@@ -24,9 +24,9 @@ Evaluation and Deployment. Moreover, data wrangling steps are conducted. Markdow
 Thereby, the above raised questions are analysed.
 
 ### Results
-The main findings of the analysis are stated in a blog post on medium.
+The main findings of the analysis are stated in this blog post on medium.
 
 ### Licensing, Authors, Acknowledgements
 The data stems from Kaggle and I looked up the extraction from date / time in stackoverflow. Corresponding links are included in the notebook. As example how to write 
-a README file I looked up the stackoverflow project on github conducted by our tutor jjrunner. You can find the Licensing for the data on the the Kaggle website. 
+a README file I looked up the stackoverflow project on github conducted by our tutor [jjrunner](https://github.com/jjrunner/stackoverflow/blob/master/README.md). You can find the Licensing for the data on the the Kaggle website. 
 Otherwise, feel free to use the code here as you would like!
