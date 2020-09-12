@@ -24,7 +24,7 @@ Evaluation and Deployment. Moreover, data wrangling steps are conducted. Markdow
 Thereby, the above raised questions are analysed.
 
 ### Results
-The main findings of the analysis are stated in this blog post.
+The main findings of the analysis are stated in a blog post on medium.
 
 ### Licensing, Authors, Acknowledgements
 The data stems from Kaggle and I looked up the extraction from date / time in stackoverflow. Corresponding links are included in the notebook. As example how to write 
