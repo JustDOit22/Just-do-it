@@ -4,7 +4,7 @@
 [Project Motivation](#Project-Motivation)   
 [File Descriptions](#File-Descriptions)  
 [Results](#Results)      
-[Licensing, Authors, and Acknowledgements](#Licensing,-Authors,-and-Acknowledgements)  
+[Licensing, Authors, and Acknowledgements](#Licensing-Authors-and-Acknowledgements)  
 
 ### Installation
 The code should run with no issues using Python versions 3.*.
