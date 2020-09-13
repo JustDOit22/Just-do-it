@@ -2,9 +2,9 @@
 
 [Installation](#Installation)      
 [Project Motivation](#Project-Motivation)   
-[File Descriptions](# File-Descriptions)  
+[File Descriptions](#File-Descriptions)  
 [Results](#Results)      
-[Licensing, Authors, and Acknowledgements](#Licensing,-Authors,-Acknowledgements)  
+[Licensing, Authors, and Acknowledgements](#Licensing,-Authors,-and-Acknowledgements)  
 
 ### Installation
 The code should run with no issues using Python versions 3.*.
@@ -26,7 +26,7 @@ Thereby, the above raised questions are analysed.
 ### Results
 The main findings of the analysis are stated in this blog post on [medium.](https://medium.com/@rita.meier/insights-to-solar-power-generation-adbe206a9b13)
 
-### Licensing, Authors, Acknowledgements
+### Licensing, Authors, and Acknowledgements
 The data stems from Kaggle and I looked up the extraction from date / time in stackoverflow. Corresponding links are included in the notebook. As example how to write 
 a README file I looked up the stackoverflow project on github conducted by our tutor [jjrunner](https://github.com/jjrunner/stackoverflow/blob/master/README.md). You can find the Licensing for the data on the the Kaggle website. 
 Otherwise, feel free to use the code here as you would like!
