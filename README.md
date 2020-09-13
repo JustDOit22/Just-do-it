@@ -2,9 +2,9 @@
 
 [Installation](#Installation)      
 [Project Motivation](#Project-Motivation)   
-File Descriptions    
-Results      
-Licensing, Authors, and Acknowledgements   
+[File Descriptions](# File-Descriptions)  
+[Results](#Results)      
+[Licensing, Authors, and Acknowledgements](#Licensing,-Authors,-Acknowledgements)  
 
 ### Installation
 The code should run with no issues using Python versions 3.*.
