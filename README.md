@@ -24,7 +24,7 @@ Evaluation and Deployment. Moreover, data wrangling steps are conducted. Markdow
 Thereby, the above raised questions are analysed.
 
 ### Results
-The main findings of the analysis are stated in this blog post on [medium.](https://medium.com/@rita.meier/insights-to-solar-power-generation-adbe206a9b13)
+The main findings of the analysis are stated in a blog post.
 
 ### Licensing, Authors, and Acknowledgements
 The data stems from Kaggle and I looked up the extraction from date / time in stackoverflow. Corresponding links are included in the notebook. As example how to write 
